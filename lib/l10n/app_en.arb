@@ -1,0 +1,19 @@
+{
+  "appTitle": "ToDo List",
+  "settings": "Settings",
+  "taskTitle": "TaskTitle",
+  "taskDescription": "TaskDescription",
+  "addNewTask": "AddNewTask",
+  "selectDate": "SelectDate",
+  "language": "Language",
+  "mode": "Mode",
+  "done": "Done",
+  "light": "Light",
+  "dark": "Dark",
+  "english": "English",
+  "arabic": "Arabic",
+  "addTask": "AddTask",
+   "noTask": "NoTask",
+  "somethingWentWrong": "Something went wrong"
+
+}

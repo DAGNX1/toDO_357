@@ -1,0 +1,18 @@
+{
+  "appTitle": "قائمة المهام",
+  "settings": "الاعدادات",
+  "taskTitle": "عنوان المهمة",
+  "taskDescription": "وصف المهمة",
+  "addNewTask": "اضافة مهمة جديدة",
+  "selectDate": "اختار التاريخ",
+  "language": "اللغة",
+  "mode": "الوضع",
+  "done": "تم",
+  "light": "فاتح",
+  "dark": "ليلي",
+  "english": "الانجليزية",
+  "arabic": "العربية",
+  "addTask": "اضافة مهمة",
+  "noTask": "لا توجد مهمة",
+  "somethingWentWrong": "هناك خطأ ما"
+}
